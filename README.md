@@ -2,7 +2,7 @@
 
 ![logo](docs/logo.png)
 
-##[DRAFTING]
+## [DRAFT]
 
 This script allows you to extract C# classes from a MySQL database schema.
 
